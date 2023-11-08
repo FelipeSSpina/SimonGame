@@ -5,7 +5,5 @@ Nesse repositório é possível visualizar o código que utilizei no meu projeto
 
 Segue abaixo um vídeo demonstrando o funcionamento do jogo:
 
-
-
-https://github.com/FelipeSSpina/SimonGame/assets/123972472/7db9feff-004e-4179-aa18-f948afed0ff3
+https://github.com/FelipeSSpina/SimonGame/assets/123972472/2ea1b895-c535-488b-979a-857f2db1501f
 
